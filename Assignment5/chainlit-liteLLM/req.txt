@@ -1,0 +1,4 @@
+openai-Agents
+python-dotenv
+rich
+litellm

@@ -1,0 +1,12 @@
+[project]
+name = "chainlit-litellm"
+version = "0.1.0"
+description = "Chatbot Agent, Frontend in Chainlit, Use Litellm for managing Agents"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "litellm>=1.71.2",
+    "openai-agents>=0.0.16",
+    "python-dotenv>=1.1.0",
+    "rich>=14.0.0",
+]

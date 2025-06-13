@@ -1,0 +1,1 @@
+Hello! I'm here to help you plan and track your weekly budget. Let's get started. What's your weekly income?

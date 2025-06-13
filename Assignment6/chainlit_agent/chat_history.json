@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "Fetch the current Global news for a specified topic."
+    },
+    {
+        "role": "assistant",
+        "content": "Sure, I can help you with that. What topic would you like the news about?\n"
+    },
+    {
+        "role": "user",
+        "content": "bitcoin"
+    },
+    {
+        "role": "assistant",
+        "content": "I am sorry, I wasn't able to find any news articles for bitcoin. Please try again later or try a different search term.\n"
+    },
+    {
+        "role": "user",
+        "content": "trump"
+    },
+    {
+        "role": "assistant",
+        "content": "Here are the top 5 news articles related to \"trump\":\n\n1.  **Title:** Asia-Pacific markets trade mixed as investors assess Trump claims of \\'done\\' deal with China - CNBC\n    *   **Source:** CNBC\n    *   **Date:** 2025-06-12T07:32:00Z\n    *   **Content:** Asia-Pacific markets traded mixed as investors assessed U.S. President Donald Trump\\'s declaration that a trade deal with China was \\\"done.\\\" Chinese imports would invite 55% tariffs, Trump suggested.\n2.  **Title:** Global poll: World sees Trump as \"dangerous,\" \"arrogant\" and \"strong\" - Axios\n    *   **Source:** Axios\n    *   **Date:** 2025-06-12T04:38:16Z\n    *   **Content:** The article discusses a global poll indicating"
+    }
+]

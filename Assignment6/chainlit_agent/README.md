@@ -24,4 +24,6 @@ This project is built using the Chainlit starter template and includes multiple 
     uv run chainlit run chatbot.py -w  
 
 [Click here to watch video](https://youtu.be/cgZN9VCvzNw)
+
+
 ![Image](image.png)
